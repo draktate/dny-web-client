@@ -43,6 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://dnyweb.ap-south-1.elasticbeanstalk.com/api",
   "proxy":"https://preeminent-mochi-54396e.netlify.app/api"
 }
