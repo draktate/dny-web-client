@@ -13,7 +13,7 @@ const FeaturedProperties = () => {
           {data.map((item) => (
             <div className="fpItem" key={item._id}>
               <img
-                src={item.photos[0]}
+                src={item.photoes[0]}
                 alt=""
                 className="fpImg"
               />
